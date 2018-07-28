@@ -1,4 +1,4 @@
-# Scale_and_Normalize_Data
+# Scale and Normalize Data
 Escalonamento e Normalização de Dados - Data Science
 
 Link do Kaggle
